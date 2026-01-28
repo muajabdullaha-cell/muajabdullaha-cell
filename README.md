@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Muaj Abdullah
 **A passionate Software Engineer || Data Engineer || Kafka Admin from BD**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
