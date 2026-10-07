@@ -1,4 +1,4 @@
-👋 Hi, I'm Muaj Abdullah
+ I'm Muaj Abdullah
 🎓 Software Engineering Student | 💻 Aspiring Software Engineer
 
 I'm currently pursuing a BSc in Software Engineering and building my foundation in programming, problem solving, and software development.
@@ -12,6 +12,4 @@ I'm currently pursuing a BSc in Software Engineering and building my foundation 
 🤖 Exploring AI & Machine Learning
 🛠️ Technologies & Tools
 
-C C++ HTML CSS JavaScript Git GitHub VS Code
 
-📌 What I'm Working On
